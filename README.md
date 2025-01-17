@@ -7,3 +7,7 @@ BLOCK DIAGRAM
 SCHEMATIC DIAGRAM
 ![image](https://github.com/user-attachments/assets/3d36fc63-064e-4a81-91cd-27478f637990)
 
+WAVEORM
+![image](https://github.com/user-attachments/assets/5c51a09d-81e5-4c00-a9e1-218108c0a5ef)
+
+
